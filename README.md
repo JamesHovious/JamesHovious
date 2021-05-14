@@ -17,5 +17,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesHovious&theme=merko" />
 </a>
 <a href="https://github.com/JamesHovious">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHovious&hide=C,makefile,c%2B%2B&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHovious&hide=C,makefile,c%2B%2B,shell,assembly,java,perl&theme=merko" />
 </a>
